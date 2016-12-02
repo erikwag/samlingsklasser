@@ -11,5 +11,5 @@ namespace samlingsklasser
         static void Main(string[] args)
         {
         }
-    }
+    } 
 }
